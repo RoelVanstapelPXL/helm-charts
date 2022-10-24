@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  pythonapp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-10-24T17:49:02.9369852+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 1c729b7381f0dfc3c41eae183a9d9e84629ede913b202ac8fe9f6f505033a056
+    name: pythonapp
+    type: application
+    urls:
+    - https://roelvanstapelpxl.github.io/helm-charts/charts/pythonapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-10-24T17:49:02.9342236+02:00"
