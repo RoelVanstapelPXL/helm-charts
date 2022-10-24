@@ -3,6 +3,16 @@ entries:
   pythonapp:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2022-10-24T16:01:03.710522847Z"
+    description: A Helm chart for Kubernetes
+    digest: d3a75fc72619740d06eadbfc27e02fddd2217e47564154495ca50f2bf41d4e8f
+    name: pythonapp
+    type: application
+    urls:
+    - https://github.com/RoelVanstapelPXL/helm-charts/releases/download/pythonapp-0.1.3/pythonapp-0.1.3.tgz
+    version: 0.1.3
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2022-10-24T15:54:32.068929054Z"
     description: A Helm chart for Kubernetes
     digest: 30606d0f265c687a8fab4096557a958b7cd088851febd21d5633b38379c5de74
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://github.com/RoelVanstapelPXL/helm-charts/releases/download/pythonapp-0.1.0/pythonapp-0.1.0.tgz
     version: 0.1.0
-generated: "2022-10-24T15:54:32.068933854Z"
+generated: "2022-10-24T16:01:03.710531247Z"
